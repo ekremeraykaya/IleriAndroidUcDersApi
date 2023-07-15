@@ -2,8 +2,7 @@
 "Adi": "Adalar",
 "BulunduguYaka": "Anadolu Yakası",
 "Detay": "İstanbul'un güneyinde yer alan takımadadan oluşur. Takımadada 4'ü meskûn, toplam 9 ada vardır. Nüfus bakımından İstanbul'un en küçük ilçesidir. İldeki en eski ilçelerden olup adaya bağlı köy ya da belde yoktur. Marmara Denizi'yle çevrili olan adalara ulaşım, düzenli vapur seferleriyle sağlanır. Tarih ve doğa turizmi açısından önem taşımaktadır.",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/adalar.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/adalar.png",
 "Nufusu": "16.033"
 },
  
@@ -11,8 +10,7 @@
 "Adi": "Arnavutköy",
 "BulunduguYaka": "Avrupa Yakası",
 "Detay": "İstanbul'da 2008 yılında yapılan düzenlemeyle 6 ayrı ilk kademe belediyesi birleştirilerek kurulmuştur. İstanbul'un yüzölçümü bakımından 4. büyük ilçesidir. Kuzeyde Karadeniz'e kıyısı vardır. Komşuları batıda Çatalca, doğuda Eyüpsultan, güneydoğuda Başakşehir, güneyde Esenyurt ve güneybatıda Büyükçekmece'dir.",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/arnavutkoy.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/arnavutkoy.png",
 "Nufusu": "296.709"
 },
  
@@ -20,261 +18,260 @@
 "Adi": "Ataşehir",
 "BulunduguYaka": "Anadolu Yakası",
 "Detay": "2008 yılındaki düzenlemeyle ilçe statüsüne kavuşmuştur. Üsküdar'a bağlı 3, Kadıköy'e bağlı 7, Ümraniye'ye bağlı 3, Samandıra'ya bağlı 1 mahallenin birleştirilmesiyle oluşturulmuştur. Güneybatıda Kadıköy, batıda Üsküdar, kuzeyde Ümraniye, güneyde Maltepe ve doğuda Sancaktepe ilçeleriyle komşudur.",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/atasehir.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/atasehir.png",
 "Nufusu": "422.594"
 },
  
  {
 "Adi": "Avcılar",
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/avcilar.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Detay": "1992 yılında Küçükçekmece'den ayrılarak ilçe hâline getirildi. TEM ve D100 karayollarının içinden geçtiği ilçede köy yerleşimi bulunmamaktadır. Doğusunda Küçükçekmece Gölü; güneyinde Marmara Denizi; batısında Beylikdüzü ve Esenyurt; kuzeyinde ise Başakşehir ile komşudur. Özellikle Küçükçekmece Gölü kıyılarında ve kuzey kesimlerde geniş boş düzlükler vardır."
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/avcilar.png",
 "Nufusu": "436.897"
 },
    {
 "Adi": "Bağcılar",
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bagcilar.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Detay": "1992 yılında Bakırköy'den ayrılarak ilçe yapılan yerlerden biridir. 70'li yıllara değin yalnızca birkaç köye ev sahipliği yapan Bağcılar bu dönemden sonra iç göç patlamasıyla düzensiz büyüdü. Bugün en önemli karayollarının içinden geçtiği Bağcılar, İstanbul'un en kalabalık üçüncü ilçesidir. Güneyinde Bahçelievler; kuzeyinde askerî bölge ve Başakşehir; doğusunda Esenler ve Güngören, batısında Küçükçekmece ile komşudur."
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bagcilar.png",
 "Nufusu": "737.206"
 },
    {
 "Adi": "Bahçelievler",
+"Detay": "1992 yılında bağlı bulunduğu Bakırköy'den ayrılarak ilçe yapılan Bahçelievler D-100 karayoluna ve havalimanına yakınlığı nedeniyle hızla gelişmiştir. Denize kıyısı olmayan ilçenin güneyinde Bakırköy; kuzeyinde Bağcılar; doğusunda Güngören ve batısında Küçükçekmece ilçeleri yer alır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bahcelievler.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bahcelievler.png",
 "Nufusu": "592.371"
 },
    {
 "Adi": "Bakırköy",
+"Detay": "İstanbul'un en köklü ilçelerinden biri olan Bakırköy, 1992 yılındaki düzenlemelere değin İstanbul'un en büyük ilçelerindendi. Günümüzdeki biçimini 1992'de alan ilçenin güneyinde Marmara Denizi; kuzeyinde Küçükçekmece, Bahçelievler, Güngören; batısında Küçükçekmece Gölü; doğusunda ise Zeytinburnu yer alır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bakırkoy.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bakirkoy.png",
 "Nufusu": "16.033"
 },
    {
 "Adi": "Başakşehir",
+"Detay": "İstanbul'daki en yeni yerleşim bölgelerinden olan Başakşehir'de toplukonut uygulamaları yoğunluk gösteriyordu. Bölgenin giderek artan nüfusu göz önüne alınarak 2008 yılında çevre ilçelerden alınan bazı mahallelerle Başakşehir ilçesi oluşturuldu. İlçenin kuzeyinde Arnavutköy; kuzeydoğusunda Eyüpsultan; doğusunda Sultangazi ve Esenler; güneyinde Bağcılar, Küçükçekmece ve Avcılar; batısında ise Esenyurt ilçesi vardır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/basaksehir.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/basaksehir.png",
 "Nufusu": "469.924"
 },
    {
 "Adi": "Bayrampaşa",
+"Detay": "1990 yılında Eyüpsultan'dan ayrılarak ilçe hâline getirildi. Tarihî yarımadaya yakınlığı nedeniyle hızla büyüyen Bayrampaşa Topkapı'dan kaldırılan İstanbul Otogarı'nın da yeni adresi oldu. Batısında Esenler; güneyinde Zeytinburnu; doğusunda Eyüpsultan ve kuzeyinde Gaziosmanpaşa ile komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bayrampasa.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bayrampasa.png",
 "Nufusu": "269.950"
 },
    {
 "Adi": "Beşiktaş",
+"Detay": "İstanbul'un en seçkin semtlerinden olan Beşiktaş 1930 yılında Beyoğlu'ndan ayrılarak ilçe yapıldı. Pek çok Osmanlı yapısına ev sahipliği yapan ilçe İstanbul'un ulaşım, eğitim ve ticaret alanında en işlek noktalarındandır. Doğusunda ve güneyinde İstanbul Boğazı; batısında Şişli ve Kâğıthane; kuzeybatısında Şişli (Ayazağa); kuzeyinde ise Sarıyer ile komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/besiktas.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/besiktas.png",
 "Nufusu": "176.513"
 },
    {
 "Adi": "Beykoz",
+"Detay": "1930'a değin Üsküdar'a bağlı olan Beykoz bu tarihte ayrı ilçe yapıldı. İç göç ile hızla büyüyen Beykoz'da bugün yerleşimin genelde Boğaz kıyılarında yoğunlaştığı görülmektedir. İç kesimlerde çok sayıda köye de ev sahipliği yapan Beykoz'un kuzeyinde Karadeniz; doğusunda Şile; güneyinde Çekmeköy, Ümraniye ve Üsküdar; batısında ise İstanbul Boğazı yer alır."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beykoz.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beykoz.png",
 "Nufusu": "246.110"
 },
    {
 "Adi": "Beylikdüzü",
+"Detay": "2008 yılındaki düzenlemelerle ilçe hâline getirilen Beylikdüzü büyük ölçüde Büyükçekmece ilçesine bağlı belde belediyelerinin derlenmesiyle oluşturuldu. Bu nedenle birbirinden kopuk bir yapılanmanın göze çarptığı ilçenin güneyinde ve batısında Marmara Denizi; kuzeybatısında Büyükçekmece; kuzeyinde Esenyurt; doğusunda ise Avcılar ilçesi bulunur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beylikduzu.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beylikduzu.png",
 "Nufusu": "365.572"
 },
    {
 "Adi": "Beyoğlu",
+"Detay": "İstanbul'un en köklü ilçelerinden olan Beyoğlu Eski İstanbul'da Suriçi'nin ardından ikinci bir şehir merkezi durumundaydı. O dönemde gayrimüslim nüfusun yoğun yaşadığı Beyoğlu, kentte kültür ve sanatın merkeziydi. Bugün de İstanbul'un en işlek merkezlerine ev sahipliği yapan Beyoğlu ilçesinin doğusunda İstanbul Boğazı; güneyinde ve batısında Haliç (Eyüpsultan); kuzeyinde Şişli ve Kâğıthane; kuzeydoğusunda ise Beşiktaş ilçesi vardır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beyoglu.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beyoglu.png",
 "Nufusu": "226.396"
 },
    {
 "Adi": "Büyükçekmece",
+"Detay": "Büyükçekmece Gölü'nün Marmara Denizi'yle birleştiği bölgede gelişen Büyükçekmece, 1987 yılında Çatalca'dan ayrılarak ilçe hâline getirildi. Kuzeye gittikçe yerleşim seyrekleşir ve geniş boş düzlükler başlar. İlçenin merkezinde Büyükçekmece Gölü; güneyinde Marmara Denizi; batısında Silivri; kuzeybatısında ve kuzeyinde Çatalca; kuzeyinde Arnavutköy; doğusunda Beylikdüzü ve Esenyurt vardır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/buyukcekmece.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/buyukcekmece.png",
 "Nufusu": "257.362"
 },
    {
 "Adi": "Çatalca",
+"Detay": "İstanbul'un yüzölçümü olarak en büyük ilçesi olan Çatalca Osmanlı döneminde de ayrı bir kazaydı. Nüfus olarak Adalar ve Şile'den sonra İstanbul'un en seyrek nüfuslu ilçelerinden biridir. Batısında Tekirdağ ili ve Silivri; kuzeyinde Karadeniz; güneyinde Büyükçekmece ve doğusunda Arnavutköy'le komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/catalca.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/catalca.png",
 "Nufusu": "74.975"
 },
    {
 "Adi": "Çekmeköy",
+"Detay": "Ömerli, Alemdağ ve Taşdelen beldelerinin bir araya getirilmesiyle 2008 yılında oluşturulan Çekmeköy ilçesinin doğusunda Şile ve Ömerli Baraj Gölü; kuzeyinde Beykoz; batısında Ümraniye; güneyinde Sancaktepe ilçesi yer alır. İlçe topraklarının büyük bölümünü engebeli topraklar oluşturur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/cekmekoy.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/cekmekoy.png",
 "Nufusu": "273.658"
 },
    {
 "Adi": "Esenler",
+"Detay": "Cumhuriyet dönemine değin büyük Rum köylerine ev sahipliği yapan Esenler önceleri Bakırköy'e bağlıyken Güngören ilçe yapılınca buraya katıldı. Daha sonra 1993 yılında ayrı bir ilçe hâline getirilen Esenler'in batısında Bağcılar; güneyinde Güngören; doğusunda Bayrampaşa; güneydoğusunda Zeytinburnu; kuzeydoğusunda Gaziosmanpaşa ve Sultangazi; kuzeyinde ise Başakşehir ilçesi bulunur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenler.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenler.png",
 "Nufusu": "446.276"
 },
    {
 "Adi": "Esenyurt",
+"Detay": "Kıraç, Yakuplu, Avcılar ve Bahçeşehir'e bağlı mahallelerin derlenmesiyle 2008 yılında ilçe hâline getirilen Esenyurt önemli karayollarının birleştiği bir noktada yer alır. Batısında Büyükçekmece; doğusunda Avcılar; güneyinde Beylikdüzü; kuzeyinde Başakşehir ve Arnavutköy ile komşudur. İstanbul'un en kalabalık ilçesidir."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenyurt.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenyurt.png",
 "Nufusu": "957.398"
 },
    {
 "Adi": "Eyüpsultan",
+"Detay": "1936 yılında Fatih ve Beyoğlu ilçelerine bağlı bölgelerin birleştirilmesiyle kurulan Eyüpsultan ilçesi İstanbul'un önemli tarihî merkezlerinden biridir. Karadeniz kıyılarına kadar uzansa da Eyüpsultan'da nüfus Haliç çevresinde yoğunlaşmıştır. O-2 yolunun kuzeyinde yerleşim hemen hemen kesilir. İlçenin güneyinde Beyoğlu, Haliç, Gaziosmanpaşa, Bayrampaşa ve Kâğıthane; doğusunda Sarıyer (Ayazağa dahil); batısında Arnavutköy, Sultangazi ve Başakşehir; kuzeyinde Karadeniz vardır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/eyupsultan.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/eyupsultan.png",
 "Nufusu": "405.845"
 },
    {
 "Adi": "Fatih",
+"Detay": "Cumhuriyetin ilk yıllarında Suriçi'nde yalnızca İstanbul merkez ilçesi varken, daha sonra görev alanı Fatih ve Eminönü olmak üzere ikiye bölündü. 2008 yılında Eminönü ilçesi feshedilerek Fatih'e katıldı ve tarihî yarımadada yine tek bir ilçe oluşturuldu. İstanbul'un tarihî merkezi olan Fatih ilçesi turizm ve ekonominin en canlı olduğu noktalardandır. Kuzeyinde Haliç; güneyinde Marmara Denizi, doğusunda İstanbul Boğazı; batısında Zeytinburnu ve Eyüpsultan ilçeleriyle komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/fatih.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/fatih.png",
 "Nufusu": "396.594"
 },
    {
 "Adi": "Gaziosmanpaşa",
+"Detay": "Gaziosmanpaşa ilçesi 1963 yılında Eyüpsultan ve Çatalca ilçelerinden alınan bölgelerin birleştirilmesiyle oluşturuldu. 2008 yılına değin İstanbul'un nüfus bakımından en büyük ilçesi olan Gaziosmanpaşa bu tarihte bölündü ve iki yeni ilçe ortaya çıktı. Böylece en küçük ilçelerden biri olan Gaziosmanpaşa'nın komşuları doğuda Eyüpsultan; kuzeyde Sultangazi; batıda Esenler ve Bayrampaşa; güneyde Zeytinburnu'dur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gaziosmanpasa.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gaziosmanpasa.png",
 "Nufusu": "487.778"
 },
    {
 "Adi": "Güngören",
+"Detay": "1992 yılında Bakırköy'den ayrılarak kurulan Güngören, İstanbul'un en küçük yüzölçümlü ilçesidir. Önceleri yalnızca birkaç köyden ibaret olan Güngören bölgesi önceleri Balkanlardan aldığı göçle, daha sonra iç göçlerle giderek büyüdü. İlçenin batısında Bahçelievler ve Bağcılar; doğusunda Esenler ve Zeytinburnu; güneyinde Bakırköy ilçesi yer alır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gungoren.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gungoren.png",
 "Nufusu": "280.299"
 },
    {
 "Adi": "Kadıköy",
+"Detay": "İstanbul'da Anadolu Yakası'nın en eski yerleşim birimlerinden olan Kadıköy bugün de yakanın en işlek noktası durumundadır. Pek çok nezih semte ev sahipliği yapan Kadıköy'de Osmanlı döneminden kalma yapılara rastlanır. İlçenin batısında ve güneyinde Marmara Denizi; kuzeyinde Üsküdar; doğusunda Ataşehir; güneydoğusunda Maltepe ilçeleri yer alır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kadıkoy.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kadikoy.png",
 "Nufusu": "442.415"
 },
    {
 "Adi": "Kağıthane",
+"Detay": "1987 yılında Şişli'den ayrılarak ayrı ilçe yapılan Kâğıthane O-1 ve O-2 yolları arasında kuruludur. Engebeli bir arazi üstüne yayılan ilçe son yıllarda iç göçle büyük nüfus artışı yaşamıştır. Batısında Eyüpsultan; güneyinde Beyoğlu ve Şişli; kuzeyinde Sarıyer; doğusunda Şişli ve Beşiktaş ilçeleriyle komşudur."
 "BulunduguYaka": "mipsirli@medipol.edu.tr",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
 "Nufusu": "16.033"
 },
    {
 "Adi": "Kartal",
+"Detay": "Kartal, 1928 yılında bağlı bulunduğu Üsküdar'dan ayrılarak ilçe hâline getirildi. 1987'de Pendik'in, 1992'de Sultanbeyli ve Maltepe'nin, 2008'de Ataşehir ve Sancaktepe'nin ilçe yapılmasıyla son biçimini aldı. İlçenin güneyinde Marmara Denizi ve açıkta Adalar; doğusunda Pendik; batısında Maltepe; kuzeyinde Sancaktepe ve Sultanbeyli ilçeleri bulunur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kartal.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kartal.png",
 "Nufusu": "474.514"
 },
    {
 "Adi": "Küçükçekmece",
+"Detay": "D100 ve TEM otoyolları arasında kalan Küçükçekmece adını kıyılarında kurulduğu lagün gölünden almıştır. 1989 yılında Bakırköy'den ayrılarak ayrı ilçe durumuna getirilmiştir. Batısında Küçükçekmece Gölü ve Avcılar; güneyinde Marmara Denizi ve Bakırköy; doğusunda Bahçelievler ve Bağcılar; kuzeyinde Başakşehir ilçesi vardır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kucukcekmece.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kucukcekmece.png",
 "Nufusu": "789.633"
 },
    {
 "Adi": "Maltepe",
+"Detay": "Maltepe, 1992 yılında Kartal'dan ayrılarak ilçe yapıldı. Kadıköy'e yakınlığı ile hızla gelişme olanağı bulan ilçenin kuzey kesimlerinde boş araziler görülür. 2008 yılında Sancaktepe'nin ilçe yapılmasıyla bir miktar toprak ve nüfus düşüşü yaşamıştır. İlçe, batıda ve güneybatıda Marmara Denizi ve açıklarda Adalar; doğuda ve güneydoğuda Kartal; kuzeydoğuda Sancaktepe; kuzeyde Ataşehir ve kuzeybatıda Kadıköy ile komşudur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/maltepe.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/maltepe.png",
 "Nufusu": "515.021"
 },
    {
 "Adi": "Pendik",
+"Detay": "Pendik 1987 yılında Kartal'dan ayrılarak ilçe hâline getirildi. Yerleşimin genel olarak O-4 otoyolunun güneyinde yoğunlaştığı ilçenin kuzeyinde köy yerleşimleri görülür. İlçe; doğuda Tuzla; güneyde Marmara Denizi; batıda Kartal ve Sultanbeyli; kuzeybatıda Sancaktepe; kuzeyde Ömerli Baraj Gölü ve Şile; kuzeydoğuda Kocaeli iliyle komşudur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/pendik.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/pendik.png",
 "Nufusu": "726.481"
 },
    {
 "Adi": "Sancaktepe",
+"Detay": "2008 yılında, bölgedeki belde belediyelerinin birleştirilmesi ve çevre ilçelerden mahalle eklenmesiyle kurulan Sancaktepe ilçesi İstanbul'un Anadolu Yakası'ndadır. Kuzeyinde Çekmeköy; batısında Ümraniye; Ataşehir ve Maltepe; güneyinde Kartal; güneydoğusunda Sultanbeyli; doğusunda Ömerli Baraj Gölü ve Pendik ilçeleriyle komşudur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sancaktepe.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sancaktepe.png",
 "Nufusu": "456.861"
 },
    {
 "Adi": "Sarıyer",
+"Detay": "Sarıyer, Avrupa Yakası'nda Boğaziçi'nin en kuzeydeki ilçesidir. Yerleşimin kıyı şeridi boyunca yoğunlaştığı Sarıyer, İstanbul'un en tarihî semtlerine ev sahipliği yapar. Doğusunda ve kuzeyinde köy yerleşimleri bulunur. 2. Boğaz köprüsünün ilçeden geçmesiyle, ilçenin büyümesi ivme kazanmıştır. Kuzeyinde Karadeniz; doğusunda İstanbul Boğazı; batısında Eyüpsultan; güneybatısında Kâğıthane; güneyinde Beşiktaş ilçeleriyle komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sariyer.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sariyer.png",
 "Nufusu": "335.298"
 },
    {
 "Adi": "Silivri",
+"Detay": "Yüzölçümü olarak İstanbul'un en büyük ikinci ilçesi olan Silivri, Çatalca'yla birlikte İstanbul'un en batısında yer alan iki ilçeden biridir. İlçe merkezi deniz kıyısında yer alır. Bununla birlikte çok sayıda köy yerleşimi de vardır. Batısında Tekirdağ ili; güneyinde Marmara Denizi; kuzeyinde ve batısında Çatalca; güneydoğusunda Büyükçekmece yer alır."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/silivri.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/silivri.png",
 "Nufusu": "200.215"
 },
    {
 "Adi": "Sultanbeyli",
+"Detay": "İstanbul'da Anadolu Yakası'nda yer alan Sultanbeyli, 90'lı yıllara değin küçük bir yerleşim birimi iken iç göç patlamasıyla düzensiz büyüdü. Hızla artan nüfus nedeniyle 1992 yılında bağlı bulunduğu Kartal'dan ayrılarak ayrı ilçe yapıldı. Bir bölümü devlet ormanlarıyla kaplı olan ilçenin komşuları doğuda ve güneyde Pendik; batıda ve kuzeyde Sancaktepe; güneybatıda ise Kartal'dır."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultanbeyli.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultanbeyli.png",
 "Nufusu": "343.318"
 },
    {
 "Adi": "Sultangazi",
+"Detay": "Sultangazi, İstanbul'un Avrupa Yakası'nda yer alır. 1970'lerin ortasına kadar birkaç binadan ibaret bir köy olan ve iki mahalle dışında Gaziosmanpaşa ilçesine bağlı bulunan ilçe, daha sonra Bulgaristan'dan ve doğu illerinden gelen nüfus ile hızla büyüdü. 2008 yılında belediye tüzel kişiliğine kavuşan ilçe, Gaziosmanpaşa'ya bağlı 14, Eyüpsultan ve Esenler'e bağlı birer mahallenin katılımıyla kuruldu. İlçe, kuzey ve doğuda Eyüpsultan'a; O2 yolunun sınırı belirlediği güney ve güneydoğuda Gaziosmanpaşa'ya; batıda Başakşehir'e ve güneybatıda Esenler'e komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultangazi.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultangazi.png",
 "Nufusu": "537.488"
 },
    {
 "Adi": "Şile",
+"Detay": "Karadeniz kıyısında kurulu olan Şile, yüzölçümü bakımından Anadolu Yakası'ndaki en büyük ilçedir fakat nüfus olarak il genelinde Adalar'dan sonra en düşük nüfuslu ikinci ilçedir. Çok sayıda köyü bulunan ilçede İstanbul'un önemli su havzalarından Darlık ve Ömerli barajları da yer alır. Kuzeyinde Karadeniz; batısında Beykoz ve Çekmeköy; güneybatısında Ömerli Barajı ve Pendik; güneyinde ve doğusunda Kocaeli ili vardır."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sile.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sile.png",
 "Nufusu": "37.904"
 },
    {
 "Adi": "Şişli",
+"Detay": "1954 yılında bağlı bulunduğu Beyoğlu'ndan ayrılarak ilçe yapılan Şişli, 1987 yılına dek Kâğıthane'yi de kapsıyordu. İlçe, Kâğıthane'nin ayrılmasıyla ikiye bölündü ve iki parça arasında bağlantı kalmadı. 2012 senesinde kuzey kısmının Sarıyer ilçesine bağlanması kararlaştırıldı ve 2014'te de resmen Sarıyer'e bağlandı. İlçenin komşuları kuzeyde ve batıda Kâğıthane; doğuda Beşiktaş; güneyde Beyoğlu'dur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sisli.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sisli.png",
 "Nufusu": "266.793"
 },
    {
 "Adi": "Tuzla",
+"Detay": "İstanbul'un Anadolu Yakası'ndaki en uç ilçelerinden olan Tuzla, Marmara Denizi kıyısında yer alır. İlçede yerleşim de kıyı bölgelerde yoğunlaşmıştır. 1992 yılında Pendik'ten ayrılarak ilçe yapılan Tuzla'nın batısında ve kuzeyinde Pendik; güneyinde Marmara Denizi; doğusunda banliyö olarak bitişik durumda olduğu Kocaeli ilinin Çayırova ve Darıca ilçeleri vardır."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/tuzla.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/tuzla.png",
 "Nufusu": "273.608"
 },
    {
 "Adi": "Ümraniye",
+"Detay": "1960'lardan sonra nüfus patlaması yaşayan Ümraniye'de ilk belediye teşkilâtı 1963'te kuruldu ancak 1980'deki askerî müdahalede bu belediye feshedilerek Üsküdar'a bağlandı. Daha sonra 1987'de bu kez ilçe olarak Üsküdar'dan ayrıldı. Ataşehir, Sancaktepe ve Çekmeköy'ün 2008'de ilçe yapılmasıyla küçüldü. Ümraniye'nin komşuları batıda Üsküdar; güneyde Ataşehir; doğuda Sancaktepe ve Çekmeköy; kuzeyde Beykoz'dur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/umraniye.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/umraniye.png",
 "Nufusu": "713.803"
 },
    {
 "Adi": "Üsküdar",
+"Detay": "İstanbul'un en köklü yerleşim bölgelerinden olan Üsküdar cumhuriyetin ilk yıllarında Anadolu Yakası'nın tümünü kapsayan ayrı bir ildi. 1926'da İstanbul'un bir ilçesi hâline getirildi. Üsküdar bugün 15 Temmuz Şehitler Köprüsü'nün geçiş güzergâhı üzerindedir. Batıda ve kuzeyde İstanbul Boğazı'yla; güneyde Kadıköy'le; güneydoğuda Ataşehir'le; doğuda Ümraniye'yle ve kuzeydoğuda Beykoz'la komşudur."
 "BulunduguYaka": "Anadolu Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/uskudar.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/uskudar.png",
 "Nufusu": "520.771"
 },
    {
 "Adi": "Zeytinburnu",
+"Detay": "Tarihî yarımadaya yakınlığından ötürü 1940'lı yıllardan başlayarak hızla büyüyen Zeytinburnu, 1957 yılında bağlı bulunduğu Fatih'ten ayrılarak ilçe yapıldı. Küçük yüzölçümlü; ancak yoğun nüfuslu olan ilçe son yıllarda İstanbul'un en önemli ulaşım merkezlerinden biri hâline geldi. Doğuda Fatih'le; kuzeydoğuda Eyüpsultan'la, kuzeyde Bayrampaşa'yla, kuzeybatıda Esenler'le batıda Güngören ve Bakırköy'le, güneyde Marmara Denizi'yle komşudur."
 "BulunduguYaka": "Avrupa Yakası",
-"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/zeytinburnu.png",
-"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/zeytinburnu.png",
 "Nufusu": "283.657"
 }
 ]
