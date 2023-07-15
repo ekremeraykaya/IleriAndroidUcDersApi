@@ -1,0 +1,280 @@
+[{
+"Adi": "Adalar",
+"BulunduguYaka": "Anadolu Yakası",
+"Detay": "İstanbul'un güneyinde yer alan takımadadan oluşur. Takımadada 4'ü meskûn, toplam 9 ada vardır. Nüfus bakımından İstanbul'un en küçük ilçesidir. İldeki en eski ilçelerden olup adaya bağlı köy ya da belde yoktur. Marmara Denizi'yle çevrili olan adalara ulaşım, düzenli vapur seferleriyle sağlanır. Tarih ve doğa turizmi açısından önem taşımaktadır.",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/adalar.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "16.033"
+},
+ 
+ {
+"Adi": "Arnavutköy",
+"BulunduguYaka": "Avrupa Yakası",
+"Detay": "İstanbul'da 2008 yılında yapılan düzenlemeyle 6 ayrı ilk kademe belediyesi birleştirilerek kurulmuştur. İstanbul'un yüzölçümü bakımından 4. büyük ilçesidir. Kuzeyde Karadeniz'e kıyısı vardır. Komşuları batıda Çatalca, doğuda Eyüpsultan, güneydoğuda Başakşehir, güneyde Esenyurt ve güneybatıda Büyükçekmece'dir.",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/arnavutkoy.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "296.709"
+},
+ 
+ {
+"Adi": "Ataşehir",
+"BulunduguYaka": "Anadolu Yakası",
+"Detay": "2008 yılındaki düzenlemeyle ilçe statüsüne kavuşmuştur. Üsküdar'a bağlı 3, Kadıköy'e bağlı 7, Ümraniye'ye bağlı 3, Samandıra'ya bağlı 1 mahallenin birleştirilmesiyle oluşturulmuştur. Güneybatıda Kadıköy, batıda Üsküdar, kuzeyde Ümraniye, güneyde Maltepe ve doğuda Sancaktepe ilçeleriyle komşudur.",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/atasehir.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "422.594"
+},
+ 
+ {
+"Adi": "Avcılar",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/avcilar.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "436.897"
+},
+   {
+"Adi": "Bağcılar",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bagcilar.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "737.206"
+},
+   {
+"Adi": "Bahçelievler",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bahcelievler.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "592.371"
+},
+   {
+"Adi": "Bakırköy",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bakırkoy.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "16.033"
+},
+   {
+"Adi": "Başakşehir",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/basaksehir.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "469.924"
+},
+   {
+"Adi": "Bayrampaşa",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bayrampasa.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "269.950"
+},
+   {
+"Adi": "Beşiktaş",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/besiktas.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "176.513"
+},
+   {
+"Adi": "Beykoz",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beykoz.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "246.110"
+},
+   {
+"Adi": "Beylikdüzü",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beylikduzu.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "365.572"
+},
+   {
+"Adi": "Beyoğlu",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/beyoglu.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "226.396"
+},
+   {
+"Adi": "Büyükçekmece",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/buyukcekmece.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "257.362"
+},
+   {
+"Adi": "Çatalca",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/catalca.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "74.975"
+},
+   {
+"Adi": "Çekmeköy",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/cekmekoy.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "273.658"
+},
+   {
+"Adi": "Esenler",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenler.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "446.276"
+},
+   {
+"Adi": "Esenyurt",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/esenyurt.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "957.398"
+},
+   {
+"Adi": "Eyüpsultan",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/eyupsultan.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "405.845"
+},
+   {
+"Adi": "Fatih",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/fatih.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "396.594"
+},
+   {
+"Adi": "Gaziosmanpaşa",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gaziosmanpasa.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "487.778"
+},
+   {
+"Adi": "Güngören",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/gungoren.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "280.299"
+},
+   {
+"Adi": "Kadıköy",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kadıkoy.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "442.415"
+},
+   {
+"Adi": "Kağıthane",
+"BulunduguYaka": "mipsirli@medipol.edu.tr",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "16.033"
+},
+   {
+"Adi": "Kartal",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kartal.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "474.514"
+},
+   {
+"Adi": "Küçükçekmece",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kucukcekmece.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "789.633"
+},
+   {
+"Adi": "Maltepe",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/maltepe.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "515.021"
+},
+   {
+"Adi": "Pendik",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/pendik.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "726.481"
+},
+   {
+"Adi": "Sancaktepe",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sancaktepe.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "456.861"
+},
+   {
+"Adi": "Sarıyer",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sariyer.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "335.298"
+},
+   {
+"Adi": "Silivri",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/silivri.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "200.215"
+},
+   {
+"Adi": "Sultanbeyli",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultanbeyli.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "343.318"
+},
+   {
+"Adi": "Sultangazi",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultangazi.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "537.488"
+},
+   {
+"Adi": "Şile",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sile.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "37.904"
+},
+   {
+"Adi": "Şişli",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sisli.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "266.793"
+},
+   {
+"Adi": "Tuzla",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/tuzla.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "273.608"
+},
+   {
+"Adi": "Ümraniye",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/umraniye.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "713.803"
+},
+   {
+"Adi": "Üsküdar",
+"BulunduguYaka": "Anadolu Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/uskudar.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "520.771"
+},
+   {
+"Adi": "Zeytinburnu",
+"BulunduguYaka": "Avrupa Yakası",
+"KucukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/zeytinburnu.png",
+"BuyukResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/mehmet.png",
+"Nufusu": "283.657"
+}
+]
