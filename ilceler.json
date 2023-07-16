@@ -1,39 +1,39 @@
 [{
 "Adi": "Adalar",
-"BulunduguYaka": "Anadolu Yakası",
 "Detay": "İstanbul'un güneyinde yer alan takımadadan oluşur. Takımadada 4'ü meskûn, toplam 9 ada vardır. Nüfus bakımından İstanbul'un en küçük ilçesidir. İldeki en eski ilçelerden olup adaya bağlı köy ya da belde yoktur. Marmara Denizi'yle çevrili olan adalara ulaşım, düzenli vapur seferleriyle sağlanır. Tarih ve doğa turizmi açısından önem taşımaktadır.",
+"BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/adalar.png"
 },
  
  {
 "Adi": "Arnavutköy",
-"BulunduguYaka": "Avrupa Yakası",
 "Detay": "İstanbul'da 2008 yılında yapılan düzenlemeyle 6 ayrı ilk kademe belediyesi birleştirilerek kurulmuştur. İstanbul'un yüzölçümü bakımından 4. büyük ilçesidir. Kuzeyde Karadeniz'e kıyısı vardır. Komşuları batıda Çatalca, doğuda Eyüpsultan, güneydoğuda Başakşehir, güneyde Esenyurt ve güneybatıda Büyükçekmece'dir.",
+"BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/arnavutkoy.png"
 },
  
  {
 "Adi": "Ataşehir",
-"BulunduguYaka": "Anadolu Yakası",
 "Detay": "2008 yılındaki düzenlemeyle ilçe statüsüne kavuşmuştur. Üsküdar'a bağlı 3, Kadıköy'e bağlı 7, Ümraniye'ye bağlı 3, Samandıra'ya bağlı 1 mahallenin birleştirilmesiyle oluşturulmuştur. Güneybatıda Kadıköy, batıda Üsküdar, kuzeyde Ümraniye, güneyde Maltepe ve doğuda Sancaktepe ilçeleriyle komşudur.",
+"BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/atasehir.png"
 },
  
  {
 "Adi": "Avcılar",
-"BulunduguYaka": "Avrupa Yakası",
 "Detay": "1992 yılında Küçükçekmece'den ayrılarak ilçe hâline getirildi. TEM ve D100 karayollarının içinden geçtiği ilçede köy yerleşimi bulunmamaktadır. Doğusunda Küçükçekmece Gölü; güneyinde Marmara Denizi; batısında Beylikdüzü ve Esenyurt; kuzeyinde ise Başakşehir ile komşudur. Özellikle Küçükçekmece Gölü kıyılarında ve kuzey kesimlerde geniş boş düzlükler vardır."
+"BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/avcilar.png"
 },
    {
 "Adi": "Bağcılar",
-"BulunduguYaka": "Avrupa Yakası",
 "Detay": "1992 yılında Bakırköy'den ayrılarak ilçe yapılan yerlerden biridir. 70'li yıllara değin yalnızca birkaç köye ev sahipliği yapan Bağcılar bu dönemden sonra iç göç patlamasıyla düzensiz büyüdü. Bugün en önemli karayollarının içinden geçtiği Bağcılar, İstanbul'un en kalabalık üçüncü ilçesidir. Güneyinde Bahçelievler; kuzeyinde askerî bölge ve Başakşehir; doğusunda Esenler ve Güngören, batısında Küçükçekmece ile komşudur."
+"BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bagcilar.png"
 },
    {
-"Adi": "Bahçelievler",
-"Detay": "1992 yılında bağlı bulunduğu Bakırköy'den ayrılarak ilçe yapılan Bahçelievler D-100 karayoluna ve havalimanına yakınlığı nedeniyle hızla gelişmiştir. Denize kıyısı olmayan ilçenin güneyinde Bakırköy; kuzeyinde Bağcılar; doğusunda Güngören ve batısında Küçükçekmece ilçeleri yer alır."
+"Adi": "Bahçelievler"
+"Detay": "1992 yılında bağlı bulunduğu Bakırköy'den ayrılarak ilçe yapılan Bahçelievler D-100 karayoluna ve havalimanına yakınlığı nedeniyle hızla gelişmiştir. Denize kıyısı olmayan ilçenin güneyinde Bakırköy; kuzeyinde Bağcılar; doğusunda Güngören ve batısında Küçükçekmece ilçeleri yer alır.",
 "BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/bahcelievler.png"
 },
@@ -136,13 +136,13 @@
    {
 "Adi": "Kadıköy",
 "Detay": "İstanbul'da Anadolu Yakası'nın en eski yerleşim birimlerinden olan Kadıköy bugün de yakanın en işlek noktası durumundadır. Pek çok nezih semte ev sahipliği yapan Kadıköy'de Osmanlı döneminden kalma yapılara rastlanır. İlçenin batısında ve güneyinde Marmara Denizi; kuzeyinde Üsküdar; doğusunda Ataşehir; güneydoğusunda Maltepe ilçeleri yer alır."
-"BulunduguYaka": "Avrupa Yakası",
+"BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kadikoy.png"
 },
    {
 "Adi": "Kağıthane",
 "Detay": "1987 yılında Şişli'den ayrılarak ayrı ilçe yapılan Kâğıthane O-1 ve O-2 yolları arasında kuruludur. Engebeli bir arazi üstüne yayılan ilçe son yıllarda iç göçle büyük nüfus artışı yaşamıştır. Batısında Eyüpsultan; güneyinde Beyoğlu ve Şişli; kuzeyinde Sarıyer; doğusunda Şişli ve Beşiktaş ilçeleriyle komşudur."
-"BulunduguYaka": "mipsirli@medipol.edu.tr",
+"BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/kagithane.png"
 },
    {
