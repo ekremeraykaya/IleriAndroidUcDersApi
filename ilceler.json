@@ -86,13 +86,13 @@
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/buyukcekmece.png"
 },
    {
-"Adi": "Çatalca",
+"Adi": "Catalca",
 "Detay": "İstanbul'un yüzölçümü olarak en büyük ilçesi olan Çatalca Osmanlı döneminde de ayrı bir kazaydı. Nüfus olarak Adalar ve Şile'den sonra İstanbul'un en seyrek nüfuslu ilçelerinden biridir. Batısında Tekirdağ ili ve Silivri; kuzeyinde Karadeniz; güneyinde Büyükçekmece ve doğusunda Arnavutköy'le komşudur.",
 "BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/catalca.png"
 },
    {
-"Adi": "Çekmeköy",
+"Adi": "Cekmeköy",
 "Detay": "Ömerli, Alemdağ ve Taşdelen beldelerinin bir araya getirilmesiyle 2008 yılında oluşturulan Çekmeköy ilçesinin doğusunda Şile ve Ömerli Baraj Gölü; kuzeyinde Beykoz; batısında Ümraniye; güneyinde Sancaktepe ilçesi yer alır. İlçe topraklarının büyük bölümünü engebeli topraklar oluşturur.",
 "BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/cekmekoy.png"
@@ -200,13 +200,13 @@
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sultangazi.png"
 },
    {
-"Adi": "Şile",
+"Adi": "Sile",
 "Detay": "Karadeniz kıyısında kurulu olan Şile, yüzölçümü bakımından Anadolu Yakası'ndaki en büyük ilçedir fakat nüfus olarak il genelinde Adalar'dan sonra en düşük nüfuslu ikinci ilçedir. Çok sayıda köyü bulunan ilçede İstanbul'un önemli su havzalarından Darlık ve Ömerli barajları da yer alır. Kuzeyinde Karadeniz; batısında Beykoz ve Çekmeköy; güneybatısında Ömerli Barajı ve Pendik; güneyinde ve doğusunda Kocaeli ili vardır.",
 "BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sile.png"
 },
    {
-"Adi": "Şişli",
+"Adi": "Sisli",
 "Detay": "1954 yılında bağlı bulunduğu Beyoğlu'ndan ayrılarak ilçe yapılan Şişli, 1987 yılına dek Kâğıthane'yi de kapsıyordu. İlçe, Kâğıthane'nin ayrılmasıyla ikiye bölündü ve iki parça arasında bağlantı kalmadı. 2012 senesinde kuzey kısmının Sarıyer ilçesine bağlanması kararlaştırıldı ve 2014'te de resmen Sarıyer'e bağlandı. İlçenin komşuları kuzeyde ve batıda Kâğıthane; doğuda Beşiktaş; güneyde Beyoğlu'dur.",
 "BulunduguYaka": "Avrupa Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/sisli.png"
@@ -218,13 +218,13 @@
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/tuzla.png"
 },
    {
-"Adi": "Ümraniye",
+"Adi": "Umraniye",
 "Detay": "1960'lardan sonra nüfus patlaması yaşayan Ümraniye'de ilk belediye teşkilâtı 1963'te kuruldu ancak 1980'deki askerî müdahalede bu belediye feshedilerek Üsküdar'a bağlandı. Daha sonra 1987'de bu kez ilçe olarak Üsküdar'dan ayrıldı. Ataşehir, Sancaktepe ve Çekmeköy'ün 2008'de ilçe yapılmasıyla küçüldü. Ümraniye'nin komşuları batıda Üsküdar; güneyde Ataşehir; doğuda Sancaktepe ve Çekmeköy; kuzeyde Beykoz'dur.",
 "BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/umraniye.png"
 },
    {
-"Adi": "Üsküdar",
+"Adi": "Usküdar",
 "Detay": "İstanbul'un en köklü yerleşim bölgelerinden olan Üsküdar cumhuriyetin ilk yıllarında Anadolu Yakası'nın tümünü kapsayan ayrı bir ildi. 1926'da İstanbul'un bir ilçesi hâline getirildi. Üsküdar bugün 15 Temmuz Şehitler Köprüsü'nün geçiş güzergâhı üzerindedir. Batıda ve kuzeyde İstanbul Boğazı'yla; güneyde Kadıköy'le; güneydoğuda Ataşehir'le; doğuda Ümraniye'yle ve kuzeydoğuda Beykoz'la komşudur.",
 "BulunduguYaka": "Anadolu Yakası",
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/uskudar.png"
