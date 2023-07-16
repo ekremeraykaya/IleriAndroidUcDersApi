@@ -1,6 +1,4 @@
-{
-"Ilceler": [
- {
+[{
 "Adi": "Adalar",
 "Detay": "İstanbul'un güneyinde yer alan takımadadan oluşur. Takımadada 4'ü meskûn, toplam 9 ada vardır. Nüfus bakımından İstanbul'un en küçük ilçesidir. İldeki en eski ilçelerden olup adaya bağlı köy ya da belde yoktur. Marmara Denizi'yle çevrili olan adalara ulaşım, düzenli vapur seferleriyle sağlanır. Tarih ve doğa turizmi açısından önem taşımaktadır.",
 "BulunduguYaka": "Anadolu Yakası",
@@ -238,4 +236,3 @@
 "ResimURL": "https://raw.githubusercontent.com/ekremeraykaya/IleriAndroidUcDersApi/main/zeytinburnu.png"
 }
 ]
-}
